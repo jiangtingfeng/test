@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args ) throws Exception
     {
         Class.forName("com.mysql.jdbc.Driver");
-        System.out.println( "Hell谁说的o World!" );
+        System.out.println( "Hell1谁说的o World!" );
     }
 }
